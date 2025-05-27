@@ -1,3 +1,4 @@
-Object Process Methodology model
+Object Process Methodology (OPM) model
 
-Generated using OPCloud
+HTML file auto-generated from OPM model using OPCloud.
+To view the model, simply download the HTML file and open it using a browser.
